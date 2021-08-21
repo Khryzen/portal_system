@@ -1,0 +1,17 @@
+html,
+body,
+.container-fluid,
+.row {
+  height: 100%;
+}
+
+.container-fluid {
+  background-image: url('https://www.integritynet.biz/assets/img/workspace/buildings/CTV_4783-min.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+span.mdi-account
+{
+  font-size: 5rem;
+}
